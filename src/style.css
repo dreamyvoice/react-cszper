@@ -1,0 +1,54 @@
+* {
+  font-family: spoqa han sans neo, 'sans-serif';
+}
+* {
+  box-sizing: border-box;
+}
+
+button {
+  padding: 2rem;
+}
+
+.card {
+  margin: 40px;
+  float: left;
+  border: 2px solid #3c1e1e;
+  width: 14rem;
+  height: 25rem;
+  background-color: #52635c;
+}
+
+.btn-facebook {
+  background-color: #4167b2;
+  border: 0;
+  font-size: 14px;
+  height: 48px;
+  margin-bottom: 8px;
+}
+.btn-kakao {
+  background: #f7e317;
+  border: 1px solid #f7e317;
+  color: #3c1e1e;
+  font-size: 14px;
+  height: 48px;
+  width: 100%;
+}
+.form-control {
+  display: block;
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #4e4e4e;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.15rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 40px;
+}
